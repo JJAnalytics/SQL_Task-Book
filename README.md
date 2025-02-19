@@ -31,6 +31,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - The country with the largest population.
 
+![image](https://github.com/user-attachments/assets/30cb59c0-d4aa-460e-a78a-21aaaf7e093a)
+
 
 - Students with a list of unique city names sorted alphabetically & their respective counts of occurrences.
 
