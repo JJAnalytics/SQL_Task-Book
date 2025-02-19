@@ -46,6 +46,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - Cities beginning with 'Be' prefix.
 
+![image](https://github.com/user-attachments/assets/e3537063-7625-4185-9d13-8f541e13bfa3)
+
 
 - Columns with limit (First 10 Rows).
 
