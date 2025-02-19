@@ -51,6 +51,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - Columns with limit (First 10 Rows).
 
+![image](https://github.com/user-attachments/assets/5a552d23-9632-4588-8ead-a0e3e58926c9)
+
 
 - A list of cities located in Europe from the database.
 
