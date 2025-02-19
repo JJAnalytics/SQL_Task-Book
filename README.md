@@ -21,6 +21,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 ## Screenshots
 - The sum of population by country.
 
+![image](https://github.com/user-attachments/assets/ba0b0894-8752-4d97-aa14-e1cda59681be)
+
 
 - The country with the higest life expectancy.
 
