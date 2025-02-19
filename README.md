@@ -36,6 +36,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - Students with a list of unique city names sorted alphabetically & their respective counts of occurrences.
 
+![image](https://github.com/user-attachments/assets/da5795a5-ff4f-4b2a-8e27-d5db7519167b)
+
 
 - Cities with population between 500,000-1,000,000.
 
