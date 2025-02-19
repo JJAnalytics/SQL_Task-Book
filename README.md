@@ -41,6 +41,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - Cities with population between 500,000-1,000,000.
 
+![image](https://github.com/user-attachments/assets/4bb6e68f-0054-4830-b9b8-1770a68881a0)
+
 
 - Cities beginning with 'Be' prefix.
 
