@@ -26,6 +26,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - The country with the higest life expectancy.
 
+![image](https://github.com/user-attachments/assets/f18170e6-86d1-4d10-b3c8-f67e98a2c0fc)
+
 
 - The country with the largest population.
 
