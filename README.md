@@ -41,3 +41,10 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 
 - A list of cities located in Europe from the database.
+
+
+
+## Summary
+
+This summary highlights my SQL skills, emphasizing my ability to manage and manipulate data in databases by efficiently retrieving, updating, inserting, and deleting data from tables.
+
