@@ -5,7 +5,7 @@
 To showcase my SQL skills highlighting my ability to manage and manipulate data in databases by retrieving, updating, inserting, and deleting data from tables.
 
 ## Dataset
-- <a href="">Dataset</a>
+- <a href="https://github.com/JJAnalytics/SQL_Task-Book/blob/main/world.7z">Dataset</a>
 
 ## Tasks Carried Out
 
@@ -20,3 +20,24 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 ## Screenshots
 - The sum of population by country.
+
+
+- The country with the higest life expectancy.
+
+
+- The country with the largest population.
+
+
+- Students with a list of unique city names sorted alphabetically & their respective counts of occurrences.
+
+
+- Cities with population between 500,000-1,000,000.
+
+
+- Cities beginning with 'Be' prefix.
+
+
+- Columns with limit (First 10 Rows).
+
+
+- A list of cities located in Europe from the database.
