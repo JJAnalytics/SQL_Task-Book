@@ -56,6 +56,8 @@ To showcase my SQL skills highlighting my ability to manage and manipulate data 
 
 - A list of cities located in Europe from the database.
 
+![image](https://github.com/user-attachments/assets/88b7a83a-36bc-4a68-87e1-6f431671fee4)
+
 
 
 ## Summary
